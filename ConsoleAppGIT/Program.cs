@@ -10,6 +10,9 @@ namespace ConsoleAppGIT
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("first git");
+            Console.ReadLine();
         }
     }
 }
