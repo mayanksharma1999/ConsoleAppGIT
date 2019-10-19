@@ -10,7 +10,6 @@ namespace ConsoleAppGIT
     {
         public string getconnection()
         {
-
             return "";
         }
     }
